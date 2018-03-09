@@ -158,7 +158,11 @@ section {
   font-family: Poppins; }
 
 section#about {
-  padding-top: 120px; }
+  padding-top: 120px;
+  background-image: url(https://goo.gl/2B6Pv5);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 60% 50%; }
   section#about .container .row .info h2 {
     font-family: Poppins;
     font-size: 50px;
@@ -191,7 +195,8 @@ section#about {
         margin: 0px; }
   section#about .container .row .about {
     background-color: rgba(242, 226, 226, 0.5);
-    padding: 50px; }
+    padding: 50px;
+    display: none; }
 
 section#work {
   background-image: url(https://goo.gl/qsNHiX);
@@ -609,6 +614,21 @@ footer {
     padding: 5px 10px; } }
 
 @media (max-width: 575px) {
+  section#about {
+    padding-top: 120px;
+    background-image: url(https://goo.gl/r4nS53);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 70% 50%;
+    background-attachment: fixed; }
+    section#about .container .row .info .infoContent .block {
+      background-color: transparent;
+      border: none;
+      text-align: center; }
+      section#about .container .row .info .infoContent .block h5 {
+        color: rgba(239, 156, 22, 0.6); }
+      section#about .container .row .info .infoContent .block p {
+        color: #EF9C16; }
   section#portfolio .container-fluid .row .col-md-3.col-sm-6 {
     border-top: 1px solid #FFF;
     border-bottom: 1px solid #FFF; }
