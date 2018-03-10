@@ -36,16 +36,16 @@ nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning {
   nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning button.navbar-toggler {
     outline: none;
   }
-  nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning button.navbar-toggler span {
-    cursor: pointer;
-  }
-  nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning .collapse.navbar-collapse.justify-content-end a.nav-link {
+    nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning button.navbar-toggler span {
+      cursor: pointer;
+    }
+  nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning #navbarNav.collapse.navbar-collapse.justify-content-end a.nav-link {
     letter-spacing: 1px;
     margin-left: 10px;
     display: inline-block;
     -webkit-transition-duration: 0.7s;
             transition-duration: 0.7s; }
-    nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning .collapse.navbar-collapse.justify-content-end a.nav-link:hover {
+    nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning #navbarNav.collapse.navbar-collapse.justify-content-end a.nav-link:hover {
       border-bottom: 2px solid rgba(255, 255, 255, 0.5);
       padding-bottom: 1px; }
 
