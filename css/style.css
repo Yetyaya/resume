@@ -10,7 +10,7 @@
   outline: none;
   color: #333; }
 
-nav.navbar.navbar-expand-sm.navbar-dark.navbar-light.bg-warning {
+nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning {
   font-family: Poppins;
   font-weight: 500;
   -webkit-transition-duration: 0.5s;
@@ -20,15 +20,15 @@ nav.navbar.navbar-expand-sm.navbar-dark.navbar-light.bg-warning {
   left: 0px;
   width: 100%;
   z-index: 5; }
-  nav.navbar.navbar-expand-sm.navbar-dark.navbar-light.bg-warning .nav-header a {
+  nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning .nav-header a {
     text-decoration: none; }
-    nav.navbar.navbar-expand-sm.navbar-dark.navbar-light.bg-warning .nav-header a p {
+    nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning .nav-header a p {
       color: #FFF;
       font-size: 32px;
       display: inline-block;
       margin: 0px;
       vertical-align: middle; }
-    nav.navbar.navbar-expand-sm.navbar-dark.navbar-light.bg-warning .nav-header a .home {
+    nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning .nav-header a .home {
       display: inline-block;
       margin-left: 10px;
       letter-spacing: 2px;
@@ -39,13 +39,13 @@ nav.navbar.navbar-expand-sm.navbar-dark.navbar-light.bg-warning {
   nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning button.navbar-toggler span {
     cursor: pointer;
   }
-  nav.navbar.navbar-expand-sm.navbar-dark.navbar-light.bg-warning .collapse.navbar-collapse.justify-content-end a.nav-link {
+  nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning .collapse.navbar-collapse.justify-content-end a.nav-link {
     letter-spacing: 1px;
     margin-left: 10px;
     display: inline-block;
     -webkit-transition-duration: 0.7s;
             transition-duration: 0.7s; }
-    nav.navbar.navbar-expand-sm.navbar-dark.navbar-light.bg-warning .collapse.navbar-collapse.justify-content-end a.nav-link:hover {
+    nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning .collapse.navbar-collapse.justify-content-end a.nav-link:hover {
       border-bottom: 2px solid rgba(255, 255, 255, 0.5);
       padding-bottom: 1px; }
 
