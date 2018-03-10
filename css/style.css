@@ -33,12 +33,12 @@ nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning {
       margin-left: 10px;
       letter-spacing: 2px;
       font-size: 28px; }
-  nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning button.navbar-toggler {
-    outline: none;
-  }
-    nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning button.navbar-toggler span {
-      cursor: pointer;
+    nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning button.navbar-toggler {
+      outline: none;
     }
+      nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning button.navbar-toggler span {
+        cursor: pointer;
+      }
   nav.navbar.navbar-expand-md.navbar-dark.navbar-light.bg-warning #navbarNav.collapse.navbar-collapse.justify-content-end a.nav-link {
     letter-spacing: 1px;
     margin-left: 10px;
