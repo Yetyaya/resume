@@ -621,17 +621,17 @@ footer {
     padding: 5px 10px; } }
 
 @media (max-width: 575px) {
-  .headPic .container .row .title h2 {
-    font-size: 80px;
-    line-height: 90px;
-  }
+    .headPic .container .row .title h2 {
+      font-size: 80px;
+      line-height: 90px;
+    }
   .headPic .container .row .subtitle {
     margin-top: 290px;
   }
-  .headPic .container .row .subtitle h3 {
-    font-size: 20px;
-    line-height: 28px;
-  }
+    .headPic .container .row .subtitle h3 {
+      font-size: 20px;
+      line-height: 28px;
+    }
   section#about {
     padding-top: 120px;
     background-image: url(https://goo.gl/r4nS53);
