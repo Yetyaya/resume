@@ -622,8 +622,8 @@ footer {
 
 @media (max-width: 575px) {
     .headPic .container .row .title h2 {
-      font-size: 80px;
-      line-height: 90px;
+      font-size: 75px;
+      line-height: 80px;
     }
   .headPic .container .row .subtitle {
     margin-top: 290px;
